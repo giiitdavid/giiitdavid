@@ -46,7 +46,7 @@ Source repository: <https://github.com/giiitdavid/giiitdavid>
     <!-- https://github.com/badges/shields --> 
     <a href="https://github.com/giiitdavid"><img src="https://img.shields.io/badge/GitHub-giiitdavid-blue?logo=github" alt="GitHub" title="GitHub" /></a>
     <!--<a href="https://gitee.com/giiitdavid"><img src="https://img.shields.io/badge/Gitee-giiitdavid-blue?logo=gitee" alt="Gitee" title="Gitee" /></a> --> 
-    <a href="https://space.bilibili.com/66333357"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-%e6%88%91%e5%b0%b1%e6%98%af%e5%b0%8f%e5%ba%b7-pink?logo=bilibili" alt="Bilibili" title="Bilibili" /></a>
+    <a href="https://space.bilibili.com/66333357"><img src="https://img.shields.io/badge/%e5%93%94%e5%93%a9%e5%93%94%e5%93%a9-davidsora-pink?logo=bilibili" alt="Bilibili" title="Bilibili" /></a>
     <a href="https://wakatime.com/@giiitdavid"><img src="https://wakatime.com/badge/user/67677d2a-fdc6-4c21-a964-b5477332bc69.svg" alt="Wakatime" title="Wakatime" /></a>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/giiitdavid"><img src="https://komarev.com/ghpvc/?username=giiitdavid&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
@@ -56,7 +56,6 @@ Source repository: <https://github.com/giiitdavid/giiitdavid>
 <a href="https://www.linkedin.com/in/wai-chon-wong-/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="giiitdavid" height="30" width="30" /></a>
 </p>
 
-Thanks for visiting :heart:
 <p align="center">
     <!-- https://github.com/kyechan99/capsule-render -->
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&&section=footer&text=THE%20END&fontSize=90&fontAlign=50&fontAlignY=70&desc=Keep%20it%20simple,%20stupid&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" alt="The End" title="The End"/>
