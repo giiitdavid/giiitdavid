@@ -51,7 +51,8 @@ Source repository: <https://github.com/giiitdavid/giiitdavid>
     <!-- https://github.com/antonkomarev/github-profile-views-counter -->
     <a href="https://github.com/giiitdavid"><img src="https://komarev.com/ghpvc/?username=giiitdavid&label=Profile+Views" alt="Profile Views" title="Profile Views" /></a>
 </p>
-### 📫 How to Reach me:
+
+📫 How to Reach me:
 <p align="left">
 <a href="https://www.linkedin.com/in/wai-chon-wong-/" target="blank"><img align="center" src="https://go-skill-icons.vercel.app/api/icons?i=linkedin&titles=true" alt="giiitdavid" height="30" width="30" /></a>
 </p>
